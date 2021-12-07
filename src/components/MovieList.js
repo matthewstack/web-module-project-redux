@@ -5,8 +5,6 @@ import MovieFooter from "./MovieFooter";
 import { connect } from "react-redux";
 
 const MovieList = (props) => {
-  //   const { movies } = props;
-
   return (
     <div className="col">
       <table className="table table-striped table-hover">
